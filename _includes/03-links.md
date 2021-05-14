@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[Are.na](https://www.are.na/kanisha-williams)
+[Twitter](twitter.com/kanishakwill)
+[Letterboxd](https://letterboxd.com/kanishawilliams/)
