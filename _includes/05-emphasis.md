@@ -1,8 +1,13 @@
-<br> <strong>Can speak and/or read the following:</strong> English, French Spanish</br>
-<br><strong>Competent in the following languages:</strong> HTML, CSS, Python</br>
-<br>Interested in <em>photography</em> and <em>cinematography</em></br>
-<br>Exerpience in <em>tap, jazz, ballet, and hip-hop</em> styles of dance</br>
-<br>Skilled writer of <em>articles, poems, <strong>screenplays, teleplays,</strong> and manuscripts</em></br>
-<br>Lover of animals</br>
+🗣️  **Can speak and/or read the following:** _English,_ French Spanish
 
-<strong>All-around sweetheart</strong>
+💻  **Competent in the following languages:** HTML, CSS, Python
+
+📸  Interested in _photography and **cinematography**_
+
+💃  Exerpienced in _**tap,** jazz, ballet, and **hip-hop** styles of dance_
+
+📝  Skilled writer of _articles, poems, **screenplays, teleplays,** and manuscripts_
+
+🐮  _Lover of animals_
+
+💖  **All-around sweetheart**
