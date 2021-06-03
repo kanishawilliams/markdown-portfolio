@@ -1,6 +1,6 @@
 🗣️  **Can speak and/or read the following:** _English,_ French Spanish
 
-💻  **Learning* the following languages:** HTML, CSS, Python
+💻  **Learning the following languages:** HTML, CSS, Python
 
 📸  Interested in _photography and **cinematography**_
 
